@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('mars-mtv-library-2.011-b-debug.aar'))

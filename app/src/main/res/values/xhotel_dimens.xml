@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Core-->
+    <dimen name="component_margin">4dp</dimen>
+    <dimen name="buttons_height">45dp</dimen>
+    <dimen name="item_text">20sp</dimen>
+    <dimen name="item_padding">5dp</dimen>
+    <dimen name="item_right_padding">20sp</dimen>
+    <color name="yelloworange_bg_75_opacity">#BFf5921e</color>
+    <!--Guest-->
+    <dimen name="margin_left">15dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="padding_left">8dp</dimen>
+    <dimen name="padding_right">8dp</dimen>
+    <!--Logo-->
+    <dimen name="logo_top_margin">0dp</dimen>
+    <dimen name="logo_x">300dp</dimen>
+    <dimen name="logo_y">175dp</dimen>
+    <dimen name="logo_welcome_text">24sp</dimen>
+    <dimen name="logo_welcome_subtext">20sp</dimen>
+    <dimen name="logo_welcome_subtext_margintop">20dp</dimen>
+    <dimen name="logo_welcome_subtext_maxwidth">750dp</dimen>
+    <!--Messaging-->
+    <dimen name="notification_left_margin">24dp</dimen>
+    <dimen name="notification_image_x">40dp</dimen>
+    <dimen name="notification_image_y">40dp</dimen>
+    <dimen name="notification_margin">5dp</dimen>
+    <!--APPS-->
+    <dimen name="app_icon_margin_right">2dp</dimen>
+    <dimen name="app_icon">70dp</dimen>
+    <dimen name="app_x">100dp</dimen>
+    <dimen name="app_y">100dp</dimen>
+    <dimen name="app_icon_selected">94dp</dimen>
+    <dimen name="app_x_selected">100dp</dimen>
+    <dimen name="app_y_selected">130dp</dimen>
+    <!--TV-->
+    <dimen name="tv_left_margin">40dp</dimen>
+    <dimen name="tv_right_margin">40dp</dimen>
+    <dimen name="tv_top_margin">24dp</dimen>
+    <dimen name="fragment_panel">500dp</dimen>
+    <dimen name="preview_x">700dp</dimen>
+    <dimen name="preview_y">550dp</dimen>
+
+    <!--Weather-->
+    <dimen name="category_head_height">45dp</dimen>
+    <dimen name="margin_left_of_logo">350dp</dimen>
+    <dimen name="banner_ads_height">80dp</dimen>
+    <dimen name="main_layout_margintop">150dp</dimen>
+    <dimen name="banner_ads_margintop">140dp</dimen>
+    <dimen name="arrow_bar_width">100dp</dimen>
+    <dimen name="info_bar_height">60dp</dimen>
+    <dimen name="date_time_bar">60dp</dimen>
+    <dimen name="weather_margin">8dp</dimen>
+</resources>

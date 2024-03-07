@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkblue">#FF003397</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="novotel_blue">#223e91</color>
+    <color name="light_orange">#ffc075</color>
+    <color name="highlighter">#f5921e</color>
+    <color name="lightblue_bg2">#FFbdced6</color>
+</resources>

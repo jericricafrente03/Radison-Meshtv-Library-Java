@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="feeds_group_event">Group/Event</string>
+    <string name="feeds_location">Location</string>
+    <string name="feeds_time">Time</string>
+</resources>

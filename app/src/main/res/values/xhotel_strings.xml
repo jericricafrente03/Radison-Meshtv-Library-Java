@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guest_room_label">Room</string>
+    <string name="guest_guest_label">Guest</string>
+    <string name="logo_welcome_default">Welcome</string>
+</resources>

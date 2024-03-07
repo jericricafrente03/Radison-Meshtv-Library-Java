@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MeshTVCustomListView">
+        <attr name="type"
+            format="enum">
+            <enum name="carousel" value="0"/>
+            <enum name="continuous" value="1"/>
+            <enum name="paged" value="2"/>
+        </attr>
+        <attr name="target"
+            format="integer"/>
+        <attr name="maxViewed"
+            format="integer"/>
+        <attr name="item_layout"
+            format="reference"/>
+        <attr name="item_layout_selected"
+            format="reference"/>
+        <attr name="item_layout_pressed"
+            format="reference"/>
+        <attr name="needs_focus"
+            format="boolean"
+            >
+        </attr>
+
+    </declare-styleable>
+
+</resources>
